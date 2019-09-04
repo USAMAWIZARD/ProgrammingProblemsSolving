@@ -9,3 +9,4 @@ while addition != note:
     else:
         if i != (len(changeavailable) - 1):
             i += 1
+print(changeavailable)
