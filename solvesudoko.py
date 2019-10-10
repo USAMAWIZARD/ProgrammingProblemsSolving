@@ -1,3 +1,9 @@
+'''
+I have wrote a program which can solve sudoko a puzzle
+i have used a data frame as a sodoko bord
+i have initialized all the prefilled boxes on the bord using filldefaultvalues  function
+'''
+
 import numpy as np
 import pandas as pd
 
