@@ -1,3 +1,10 @@
+'''
+i saw a mathametical fact on instagram which says 73939133 is the largest
+known prime number  that if you keep removing digits from the right will
+always leave a prime no.
+i came up with an idea of proving this fact using a program
+'''
+
 global isnothat
 global i
 isnothat=0
