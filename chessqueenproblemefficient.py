@@ -1,3 +1,9 @@
+'''
+we have to place 8 queens on  a 8*8 chessbord such that they shoud not hit eatch other
+i have wrote a program which returns the position of queens to place
+'''
+
+
 import pandas as pd
 import numpy as np
 #initialization
